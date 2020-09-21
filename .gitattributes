@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git clone https://github.com/thelinuxchoice/instashell.git
+cd instashell
+chmod +x install.sh 
+./install.sh
+chmod +x instashell.sh
+./instashell.sh
